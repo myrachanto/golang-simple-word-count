@@ -1,0 +1,134 @@
+
+CURRICULUM VITAE
+
+PERSONAL DETAILS
+ 
+
+Name
+
+Phone Number
+Email
+ 
+
+: Miracho Anthony Njenga.
+: (+254) 729-308-456.
+: myrachanto@gmail.com.
+ 
+
+:	info@chantosweb.com.
+Religion                  : Christian.
+ 
+
+Language Website Citizenship
+
+Profile 
+: English, Kiswahili, a bit of Spanish.
+: www.chantosweb.com.
+: Kenyan.
+
+:www.linkedin.com/in/myrachanto.
+:www.github.com/myrachanto
+
+ 
+
+OBJECTIVES 
+
+Am a full stack web developer who revels in development of web applications/websites and e-commerce systems that brings about efficiency and effective services delivery.
+
+As a back end web developer Golang, Nodejs, Laravel are my favorite computer languages and platforms not to mention their supporting technologies such as express , passport provide the best e commerce application development coding ground.
+
+As for frontend web development Vue js just takes my breath away -I mean Vuetify, Vuex and vuejs what’s not to like? I also work with bootstrap.
+
+Fast, effective, efficient and proficient application is my goal  in programming and as such Golang is my favorite programming language.
+
+Databases come in two forms and i love working with both of them nosql dbs like Mongodb and its supporting technology mongoose just make web development awesome. as for sqldbs mysql and mariadb just fits perfectly.
+
+
+EDUCATIONAL BACKGROUND
+ 
+
+December 2011 to 2015 :
+ 
+
+JARAMOGI OGINGA ODINGA UNIVERSITY OF SCIENCE
+AND TECHNOLOGY.
+
+Bachelor of Business Administration (finance option) with information
+and technology. Graduated with second class honors(upper division).
+ 
+
+2006- 2009 :
+ 
+
+ST Francis Secondary School
+Kenya Certificate of Secondary Education (K.C.S.E) B (plain)
+ 
+
+1998-2005 :
+ 
+
+Lari Primary School
+
+Kenya Certificate of Primary Education (K.C.P.E) 314 Marks
+ 
+EXTRA-CURRICULUM ACTIVITIES
+
+Handball
+
+
+Volleyball
+
+ACHIEVEMENTS
+•	Working on ecommerce projects such as stock management systems.
+•	I also designed and developed a school management web application.
+•	I worked as an IT consultant at Njimia Pharmaceuticals
+
+•	Occasionally worked in the accounting department
+
+WORKING EXPERIENCE
+
+Web Developer/Programmer
+
+Chantosweb Developers - Nairobi-kenya
+May 2017 to Present
+
+I have being working as web developer of ecommerce websites such as school management web based application- www.school.chantosweb.com among other projects at Chantosweb developers
+
+IT consultant
+Njimia Kenya LTD - Nairobi-kenya
+February 2016 to August 2018
+I have worked at Njimia Pharmaceuticals for one and a half years as an IT consultant .
+
+With knowledge in the field of business administration (finance option), this fact gives me an exceptional working ground in the creation of ecommerce sites that require finance management capabilities.
+
+SKILLS
+Golang, echo framework, AES, OAUTH,  Nodejs with expressjs, Laravel, Vuejs, Vuetify, Vuex, Bootstrap, Mysql, MongoDb, docker, sequelize, gorm
+
+Full stack web developer,  frontend developer, backend Developer, Web Development, Website development.
+
+Links
+https://www.chantosweb.com. 
+www.linkedin.com/in/myrachanto.
+www.github.com/myrachanto
+
+
+HOBBIES
+
+Learning new tricks in the world of web design, ecommerce that makes life living easier and comfortable.
+
+
+I enjoy learning Spanish ,watching Spanish movies
+ 
+REFEREES
+
+Robert Wachira
+
+Fullstack web developer
+Apnest.net
+TEL: +2540708161146
+Email: wachvirtual@gamil.com
+
+Joseph Kamau Muturi
+Dynasoft Business Solutions
+TEL: +254704969757
+Email: josephmuturi@gynasoft.co.ke
